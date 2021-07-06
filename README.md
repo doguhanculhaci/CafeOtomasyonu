@@ -1,7 +1,7 @@
 # Cafe Otomasyonu
 
 ## Açıklama
-Visual studio ile tasarlanmış bir cafe otomasyon sistemidir.
+Visual studio ile tasarlanmış bir cafe otomasyon sistemidir. Projenin debug halini ve kaynak dosyalarını paylaştığım dosyalar içerisinde bulabilirsiniz.
 
 ## Proje Resimleri
 
